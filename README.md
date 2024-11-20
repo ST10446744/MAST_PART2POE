@@ -1,3 +1,60 @@
+Change Log and Reference list
+
+Version 1.3.0 (November 20, 2024)
+
+Added image upload functionality for menu items, allowing users to select images from their device gallery.
+Updated UI for the Edit Menu screen with a redesigned heading and smaller, more aligned filter buttons.
+Introduced a fancy new title font for the "Gourmet Dish Editor" screen to enhance visual appeal.
+Improved "Add to Menu" button with a new style: smaller size, centered placement, and custom background color.
+Bug Fix: Resolved an issue where the Android version did not open the file picker for image selection.
+Minor adjustments to padding and alignment across the app for a cleaner layout.
+
+Version 1.2.1 (November 13, 2024)
+
+Improved error handling for menu actions with detailed alerts when fields are missing.
+Fixed a crash caused by null values in the price input field.
+Updated course selection dropdown for better usability and responsiveness.
+
+Version 1.2.0 (November 10, 2024)
+
+Introduced the DishContext for better state management of dishes across the app.
+Added functionality to remove dishes from the menu with a dedicated "Remove" button for each item.
+Enhanced the "Current Dishes" section with a preview of dish images (if available).
+
+Version 1.1.0 (November 5, 2024)
+
+Initial release of the Edit Menu screen with fields for dish name, description, price, and course type.
+Added functionality to add dishes to the menu with validation for required fields.
+Implemented flat list rendering to display all current dishes.
+
+Version 1.0.0 (November 1, 2024)
+
+Initial release of the Christoffel Private Restaurant Digital Menu App.
+Features include a homepage, menu browsing with filters, and admin functionality for menu edits.
+Basic black-and-white theme applied throughout the app for simplicity and elegance.
+Placeholder content and static data used for initial testing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #References 
 
 
